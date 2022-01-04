@@ -1,5 +1,5 @@
 ### Introduction 
-In first coursework you were tasked by Autumwatch 2020 to research and develop an implementation 
+In this work i was tasked by Autumwatch 2020 to research and develop an implementation 
 plan  for  an  object  detection  system  to  detect  different  bird  species.  In  this  coursework  you  are 
 required to implement your solution using the TensorFlow Object Detection API 2.0. You are required 
 to draw on your knowledge from the course lectures and the associated lab material in order to solve 
