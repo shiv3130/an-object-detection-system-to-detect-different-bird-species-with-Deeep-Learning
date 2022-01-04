@@ -1,16 +1,16 @@
-In your first course work you where tasked by Zoological Society of London to research and develop an implementation plan for a machine learning system to classify birds into different ecological groups using skeletal measurements. In this coursework you are required to implement your solution using an appropriate machine learning library such as scikit learn. You are required to draw on your knowledge from the course lectures and the associated lab material in order to solve this problem. There are many aspects of the pipeline that you will need to consider and implement to satisfy the requirements for this coursework.
+## In your first course work you where tasked by Zoological Society of London to research and develop an implementation plan for a machine learning system to classify birds into different ecological groups using skeletal measurements. In this coursework you are required to implement your solution using an appropriate machine learning library such as scikit learn. You are required to draw on your knowledge from the course lectures and the associated lab material in order to solve this problem. There are many aspects of the pipeline that you will need to consider and implement to satisfy the requirements for this coursework.
 Detail of the task
 
-1)	Machine learning Exploratory Data Analysis (EDA)
+* 1)	Machine learning Exploratory Data Analysis (EDA)
 
-In this section, you are required to construct a Juypter Notebook to undertake Exploratory Data Analysis (EDA). Your notebook must contain adequate markdown describing your method and rationale. Using the birdbones.csv file, which is available on Canvas, construct a notebook to achieve the following:
+## In this section, you are required to construct a Juypter Notebook to undertake Exploratory Data Analysis (EDA). Your notebook must contain adequate markdown describing your method and rationale. Using the birdbones.csv file, which is available on Canvas, construct a notebook to achieve the following:
 
-A)	Load the birdbones.csv file into an appropriate DataFrame that you can use for a Machine Learning (ML) task.
-B)	Undertake EDA on the imported dataset to understand the underlying data structure and contents. You should use tools such as the describe function, correlation matrix, distribution plots and investigate class distributions. In the markdown you must discuss the EDA process, the data characteristics and how this might affect the training of an ML classifier.   
+### A)	Load the birdbones.csv file into an appropriate DataFrame that you can use for a Machine Learning (ML) task.
+### B)	Undertake EDA on the imported dataset to understand the underlying data structure and contents. You should use tools such as the describe function, correlation matrix, distribution plots and investigate class distributions. In the markdown you must discuss the EDA process, the data characteristics and how this might affect the training of an ML classifier.   
 
 2) Machine Learning Task
 
-In this task, you are required to train a multi-class model using the birdbones.csv dataset. The algorithms you choose to perform the classification is down to you; however, you must provide justification for the optimal algorithm (note you must show the results from all classifiers that you use to support your justification and document you process in Markdown). Using the birdbones.csv file, which is available on Canvas, construct a notebook to achieve the following:
+## In this task, you are required to train a multi-class model using the birdbones.csv dataset. The algorithms you choose to perform the classification is down to you; however, you must provide justification for the optimal algorithm (note you must show the results from all classifiers that you use to support your justification and document you process in Markdown). Using the birdbones.csv file, which is available on Canvas, construct a notebook to achieve the following:
 
 A)	Import the required libraries.
 B)	Load the birdbones.csv file.
